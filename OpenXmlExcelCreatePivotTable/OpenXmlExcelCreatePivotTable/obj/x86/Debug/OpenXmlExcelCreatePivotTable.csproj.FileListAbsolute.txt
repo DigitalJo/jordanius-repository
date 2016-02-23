@@ -1,0 +1,11 @@
+C:\Users\v-bpeng\Desktop\OpenXmlExcelCreatePivotTable\OpenXmlExcelCreatePivotTable\bin\Debug\OpenXmlExcelCreatePivotTable.exe
+C:\Users\v-bpeng\Desktop\OpenXmlExcelCreatePivotTable\OpenXmlExcelCreatePivotTable\bin\Debug\OpenXmlExcelCreatePivotTable.pdb
+C:\Users\v-bpeng\Desktop\OpenXmlExcelCreatePivotTable\OpenXmlExcelCreatePivotTable\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\v-bpeng\Desktop\OpenXmlExcelCreatePivotTable\OpenXmlExcelCreatePivotTable\obj\x86\Debug\OpenXmlExcelCreatePivotTable.exe
+C:\Users\v-bpeng\Desktop\OpenXmlExcelCreatePivotTable\OpenXmlExcelCreatePivotTable\obj\x86\Debug\OpenXmlExcelCreatePivotTable.pdb
+C:\Users\KantharidisI\Desktop\OpenXmlExcelCreatePivotTable\OpenXmlExcelCreatePivotTable\obj\x86\Debug\OpenXmlExcelCreatePivotTable.exe
+C:\Users\KantharidisI\Desktop\OpenXmlExcelCreatePivotTable\OpenXmlExcelCreatePivotTable\obj\x86\Debug\OpenXmlExcelCreatePivotTable.pdb
+C:\Users\KantharidisI\Desktop\OpenXmlExcelCreatePivotTable\OpenXmlExcelCreatePivotTable\bin\Debug\OpenXmlExcelCreatePivotTable.exe
+C:\Users\KantharidisI\Desktop\OpenXmlExcelCreatePivotTable\OpenXmlExcelCreatePivotTable\bin\Debug\OpenXmlExcelCreatePivotTable.pdb
+C:\Users\KantharidisI\Desktop\OpenXmlExcelCreatePivotTable\OpenXmlExcelCreatePivotTable\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\KantharidisI\Desktop\OpenXmlExcelCreatePivotTable\OpenXmlExcelCreatePivotTable\obj\x86\Debug\OpenXmlExcelCreatePivotTable.csprojResolveAssemblyReference.cache

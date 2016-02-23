@@ -1,0 +1,5 @@
+C:\Users\KantharidisI\Desktop\OpenXmlExcelCreatePivotTable\OpenXmlExcelCreatePivotTable\bin\Release\OpenXmlExcelCreatePivotTable.exe
+C:\Users\KantharidisI\Desktop\OpenXmlExcelCreatePivotTable\OpenXmlExcelCreatePivotTable\bin\Release\OpenXmlExcelCreatePivotTable.pdb
+C:\Users\KantharidisI\Desktop\OpenXmlExcelCreatePivotTable\OpenXmlExcelCreatePivotTable\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\KantharidisI\Desktop\OpenXmlExcelCreatePivotTable\OpenXmlExcelCreatePivotTable\obj\x86\Release\OpenXmlExcelCreatePivotTable.exe
+C:\Users\KantharidisI\Desktop\OpenXmlExcelCreatePivotTable\OpenXmlExcelCreatePivotTable\obj\x86\Release\OpenXmlExcelCreatePivotTable.pdb
