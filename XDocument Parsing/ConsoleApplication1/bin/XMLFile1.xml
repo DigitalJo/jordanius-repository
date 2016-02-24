@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+
+<Users>
+  <Account>
+    <User>
+      <Username>AdminUser</Username>
+      <Password>pass123</Password>
+      <Active>true</Active>
+      <Account>Admin</Account>
+      <Details>
+        <Account>xyz</Account>
+      </Details>
+    </User>
+  </Account>
+  <Account>
+    <User>
+      <Username>AdminUser</Username>
+      <Password>pass123</Password>
+      <Active>true</Active>
+      <Account>Admin</Account>
+      <Details>
+        <Account>xyz</Account>
+      </Details>
+    </User>
+  </Account>
+  <Account>
+    <User>
+      <Username>AdminUser</Username>
+      <Password>pass123</Password>
+      <Active>true</Active>
+      <Account>Admin</Account>
+      <Details>
+        <Account>xyz</Account>
+      </Details>
+    </User>
+  </Account>
+</Users>
